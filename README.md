@@ -1,9 +1,4 @@
----
-tags: kids, stay-fresh, html
-languages: html
-type: stay-fresh
-level: 1
----
+
 
 ##Practice Makes Perfect
 
